@@ -1,0 +1,6 @@
+Bus_line: Haram / Downtown
+Bus_type: Bus
+Time: 8 AM
+Seats: 8;11;20;14
+price: 60.00
+(: bn7nbk ya Dr.shaf3y 3> 
