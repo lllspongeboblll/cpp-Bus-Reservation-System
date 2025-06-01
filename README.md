@@ -21,6 +21,29 @@ A graphical bus reservation system developed in C++ for a university course, fea
 2. Build the solution.
 3. Run the executable.
 
-## Contributors
-- [Abdelrhman Ameen]
-- [Ahmed Abosdera] (QR Code and local server script)
+## 🛠️ Development Team
+
+### Lead Developer
+**✅[Abdelrhman Ameen Tawfeek]**  
+ Designed and implemented the full system:  
+- Developed GUI interface  
+- Built core functionalities:  
+  - Seat reservation system  
+  - Trip scheduling & station mapping  
+  - User account management  
+- Data storage
+- System architecture  
+### Assistant Developer  
+**✅[Ahmed Abosdera]**  
+🔹 E-Ticket System:
+  - QR Code generation
+  - Local server for ticket verification
+  - JavaScript scanning functionality
+  - Mobile ticket display system
+  ### Testing & Support Team 
+**✅[Tareek Mohamed], [Bola gergas]**  
+🔹 Assisted in testing and feedback
+  - Documentation support  
+  - Sprint planning assistance  
+  - Test case development  
+  
