@@ -1,9 +1,0 @@
-
-
-
-
-Bus_line: Moneeb / Nasr City  
-Bus_type: Bus
-Time: 8 AM
-Seats: 4;8;15  
-price: 666
